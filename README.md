@@ -1,16 +1,15 @@
-﻿# 👋 Hi, I'm Saikat!  
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saikat+Charaborty+%F0%9F%91%8B;Frontend+Developer" alt="Typing SVG" />
-</h1>
-
 
 <p align="center">
   <img src="./assets/banner.jpg" alt="Banner" width="100%" />
 </p>
 
 ---
+﻿# 👋 Hi, I'm Saikat!  
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saikat+Charaborty+%F0%9F%91%8B;Frontend+Developer" alt="Typing SVG" />
+</h1>
+---
 <p align="center">
   <a href="https://saikat-chakraborty.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
@@ -43,30 +42,24 @@ I enjoy to play battle royal game!
 ## 🚀 Skills  
 
 ### 🎨 Frontend  
-| Technology | Technology | Technology |
-|------------|------------|------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |  |  |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |  
+|------------|------------|------------|  
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | ![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) |  
+| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) |  |  |  
 
 ### 🛠 Backend  
-| Technology | Technology |
-|------------|------------|
-| ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) | ![REST API](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg) |  
+|------------|------------|------------|  
 
 ### 🗄 Database  
-| Technology |
-|------------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |  
+|------------|  
 
 ### 🔧 Tools  
-| Technology | Technology | Technology |
-|------------|------------|------------|
-| ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
-| ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) | |
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) | ![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg) |  
+|------------|------------|------------|  
+| ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) | ![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg) | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
 
-
----
 
 ## 📬 Let's Connect!
 
