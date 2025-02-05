@@ -42,24 +42,58 @@ I enjoy to play battle royal game!
 ## 🚀 Skills  
 
 ### 🎨 Frontend  
-| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |  
-|------------|------------|------------|  
-| ![React](https://cdn.simpleicons.org/react/61DAFB) | ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) |  
-| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) |  |  |  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ### 🛠 Backend  
-| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) | ![REST API](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg) |  
-|------------|------------|------------|  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="30" alt="REST API" /></td>
+  </tr>
+</table>
 
 ### 🗄 Database  
-| ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |  
-|------------|  
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" /></td>
+  </tr>
+</table>
 
 ### 🔧 Tools  
-| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) | ![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg) |  
-|------------|------------|------------|  
-| ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) | ![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg) | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |  
-| ![Firebase](https://skillicons.dev/icons?i=firebase) |  |  |
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
