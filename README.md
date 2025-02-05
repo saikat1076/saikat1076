@@ -39,7 +39,7 @@ I enjoy to play battle royal game!
 ---
 
 
-<h2 align="center">🚀 Skills</h2>
+<h2 align="left">🚀 Skills</h2>
 
 <h3 align="center">🎨 Frontend</h3>
 <table align="center">
@@ -47,8 +47,6 @@ I enjoy to play battle royal game!
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /></td>
-  </tr>
-  <tr align="center">
     <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" /></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" /></td>
@@ -82,8 +80,6 @@ I enjoy to play battle royal game!
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" /></td>
-  </tr>
-  <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /></td>
