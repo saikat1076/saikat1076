@@ -40,68 +40,101 @@ I enjoy to play battle royal game!
 ---
 
 
-## My Skills 💻
+###
+
+<h2 align="left">Skill Set 💪</h2>
+
+###
+
+<p align="left">These are some of the major technologies that I use or have worked on in the past:</p>
+
+###
+
+<h4 align="left">Programming Languages</h4>
+
+###
+
+<div align="left">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+|--|--|--|--|
+</div>
+
+###
+
+<h4 align="left">Libraries and Frameworks</h4>
+
+###
+
+<div align="left">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />|
+|--|--|--|--|
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />|  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  
+</div>
+
+###
+
+<h4 align="left">Infrastructure</h4>
+
+###
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />|      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />|   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />|
+|--|--|--|--|
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />| <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+
+</div>
+
+###
+
+<h4 align="left">Tools</h4>
+
+###
+
+<div align="left">
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />|   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />| 
+|--|--|--|--|
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />|  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />|  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+
+
+</div>
+
+###
+
+<h4 align="left">Other Technologies</h4>
+
+###
+
+<div align="left">
+
+   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />|      <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" alt="woocommerce logo"  />
+|--|--|
+
+</div>
+
+###
 
 
 
+<h2 align="left">Connect with Me</h2>
 
-<h3>🎨 Frontend Development</h3>
-<table>
-  <tr>
-    <th>Libraries & Frameworks</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
-  </tr>
-</table>
+###
 
-<h3>🛠 Backend Development</h3>
-<table>
-  <tr>
-    <th>Libraries & Frameworks</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://www.linkedin.com/in/follownaim/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:naimxf@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-<h3>🔧 Tools & Infrastructure</h3>
-<table>
-  <tr>
-    <th>Development Tools</th>
-    <th>Version Control</th>
-    <th>Cloud & Hosting</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /></td>
-  </tr>
-</table>
+###
 
 
 
