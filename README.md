@@ -40,7 +40,7 @@ I enjoy to play battle royal game!
 ---
 
 
-<h2 align="left">Skill Set 💪</h2>
+### Skill Set 💪
 
 <p align="left">These are some of the major technologies that I use or have worked on in the past:</p>
 
@@ -50,12 +50,10 @@ I enjoy to play battle royal game!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />|  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />|  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />|  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />|
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />|
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />|  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />|  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
 </div>
-
-|--|--|--|--|--|--|
 
 <h4 align="left">Backend</h4>
 
@@ -68,15 +66,11 @@ I enjoy to play battle royal game!
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-|--|--|--|--|--|--|
-
 <h4 align="left">Database</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-|--|
 
 <h4 align="left">Tools</h4>
 
@@ -91,26 +85,7 @@ I enjoy to play battle royal game!
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
 
-|--|--|--|--|--|--|
-
-
-
-<h2 align="left">Connect with Me</h2>
-
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/follownaim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:naimxf@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-
 
 ---
 
