@@ -5,9 +5,8 @@
 
 ---
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saikat+Chakraborty+%F0%9F%91%8B;Frontend+Developer;Web+developer;Full+Srack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saikat+Chakraborty+%F0%9F%91%8B;Frontend+Developer;Web+developer;Full+Strack+Developer" alt="Typing SVG" />
 </h1>
----
 
 
 ## 👨‍💻 About Me  
@@ -97,8 +96,8 @@ I enjoy to play battle royal game!
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikat1076&show_icons=true&theme=radical" alt="Saikat's GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat1076&layout=compact&theme=radical" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=saikat1076&show_icons=true&theme=radical" height="250" alt="Saikat's GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat1076&layout=compact&theme=radical" height="250" alt="Top Languages" />  
 </div>
 
 ---
