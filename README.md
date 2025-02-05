@@ -106,7 +106,9 @@ I enjoy to play battle royal game!
 ### 🏆 Streaks and Contributions  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikat1076&theme=radical" alt="GitHub Streak" />  
+  <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=saikat1076&theme=dark" alt="GitHub Streak" />
+</a>  
 </div>
     
 ---
